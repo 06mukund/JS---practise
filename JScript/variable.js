@@ -7,3 +7,5 @@ var roll = 21
 
 console.log(Id)
 console.table([Id,Name,classs,roll])
+console.log(typeof Name)
+console.log(typeof null); // object datatype is  of NULL
