@@ -13,7 +13,7 @@ myobj = {
 
 //console.log(myobj.hasOwnProperty(5));
 
-//Important -- Destructing Assignment
+//Important -- Destructing Assignment -- Used in react
 
 const {university : uni} = myobj
 console.log(uni);
